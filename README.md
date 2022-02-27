@@ -4,6 +4,11 @@
 In short, this repository is a collection of work from various SNHU courses that I need to put together for the final program project. You will find a collection of various documents and programs that I have compiled in this repository.
 
 ## CS 255 System Analysis and Design
+
+[Business Requirements](https://github.com/kkeiper1103/snhu-portfolio/blob/main/CS%20255%20Business%20Requirements%20Document%20Template%20(kkeiper1103).docx)
+
+[System Design](https://github.com/kkeiper1103/snhu-portfolio/blob/main/Project%202_%20System%20Design%20Document%20-%20kkeiper1103.docx)
+
 * **Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 What did you do particularly well?**
 
