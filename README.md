@@ -3,6 +3,17 @@
 
 In short, this repository is a collection of work from various SNHU courses that I need to put together for the final program project. You will find a collection of various documents and programs that I have compiled in this repository.
 
+## CS 320 Software Test Automation
+
+* **How can I ensure that my code, program, or software is functional and secure?**
+
+    By creating automated test suites that are ran by automation agents, like Jenkins, we can ensure that functionality is not accidentally removed, or bugs accidentally created. Tests allow us to objectively measure how well our code meets business requirements, as well as objectively know how much of the code has been covered for errors.
+* **How do I interpret user needs and incorporate them into a program?**
+
+    By listening and probing clients for what they'd like, I write tests to make sure the features are incorporated. For example, if a system needs IDs, they probably need to be unique, so we would write a test to make sure two objects in the same system cannot share an identical ID. Test automation allows us to know if client needs are taken into account on each iteration of software release.
+* **How do I approach designing software?**
+
+    Personally, I like to conceptualize the software, then skeleton it. At that point, I begin writing tests to start incorporating features. When all the requirements have a related test, and each test passes, I consider the software feature complete, although it may not be content complete.
 ## CS 255 System Analysis and Design
 
 [Business Requirements](https://github.com/kkeiper1103/snhu-portfolio/blob/main/CS%20255%20Business%20Requirements%20Document%20Template%20(kkeiper1103).docx)
