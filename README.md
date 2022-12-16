@@ -13,7 +13,7 @@ When I develop software, I like to have documentation up on one monitor, while h
 
 Lastly, computer science helps me reach my goals because computer can operate so much faster than I can. They can take abstract math that I cannot visualize, and then plot it out in a way that makes sense to my monkey brain. A list of numbers doesn't mean much to me, but when they're rendered out in 3d space as a model, I can visually recognize what the numbers are supposed to represent. This helps me to be able to design something before fabricating it.
 
-[Design Decisions](Module 2_ Project Proposal.docx)
+[Design Decisions](https://github.com/kkeiper1103/snhu-portfolio/blob/main/Module%202_%20Project%20Proposal.docx)
 
 ## CS 320 Software Test Automation
 
