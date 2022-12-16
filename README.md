@@ -3,6 +3,18 @@
 
 In short, this repository is a collection of work from various SNHU courses that I need to put together for the final program project. You will find a collection of various documents and programs that I have compiled in this repository.
 
+## CS 330 Computer Graphics
+
+When I design software, I like to sit down and think about abstractions. In the case of Graphics Programming, what happens if you want to use the same 
+geometry in different places in the window? Reprogramming all the vertices is really cumbersome, so I like using a solution of Mesh+Model, when one Mesh 
+can be used by multiple Models placed throughout the scene. 
+
+When I develop software, I like to have documentation up on one monitor, while having the IDE open in the other. In this situation, it was using learnopengl.com as the documentation and CLion as the IDE. I also liked to start a new module by cloning the previous project, that way I didn't have to rewrite all the utility classes, like Mesh, Model, Shader, or Timer. One new strategy I used was to incorporate Blender, a 3D Modeling Software, into my workflow. I've never sat down to really learn Blender, but because I had to model non-trivial objects, I didn't want to enter numbers by hand.
+
+Lastly, computer science helps me reach my goals because computer can operate so much faster than I can. They can take abstract math that I cannot visualize, and then plot it out in a way that makes sense to my monkey brain. A list of numbers doesn't mean much to me, but when they're rendered out in 3d space as a model, I can visually recognize what the numbers are supposed to represent. This helps me to be able to design something before fabricating it.
+
+[Design Decisions](Module 2_ Project Proposal.docx)
+
 ## CS 320 Software Test Automation
 
 * **How can I ensure that my code, program, or software is functional and secure?**
