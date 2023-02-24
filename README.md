@@ -3,6 +3,24 @@
 
 In short, this repository is a collection of work from various SNHU courses that I need to put together for the final program project. You will find a collection of various documents and programs that I have compiled in this repository.
 
+## CS 340 - Client/Server Development
+
+* **How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?**
+
+One of the big ways to write maintainable software is to use dependency injection; in the AnimalShelter.py file, we use it to be able to "inject" the username and password into the class, that way we can load the credentials from where-ever they live, such as an .env file or shell built-ins.
+
+Another way is to abstract the actions a class can take, which we did with our CRUD methods. We don't necessarily care *how* the animals are created, just that they *are* created; it's the same with Reading, Updating and Deleting. As long as the data gets saved, we can simply concern ourselves with the business logic of the project, not the actual implementation details.
+
+* **How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?**
+
+I've been working in software for long enough that I don't really think my approach to grazioso salvare was different than any of my previous ones. I'm used to developing CRUD apis for the work I do. I've worked on budgeting software for myself, gardening calendar stuff, and student information for work, and I have frequently created apis that are based in CRUD.
+
+Techniques and strategies that I would use are to draw up the information required in a datatype; for example, when developing a dashboard for tracking expenses and income, my thoughts would be "The bubble of data I want is a Transaction, so what information exists in a transaction? A credit/debit type, an amount type, a category type, a datetime type, etc". Then I would create the database for it. With MongoDB, however, I wouldn't need to define the schema. 
+
+* **What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
+
+Computer scientists find efficient ways to model and solve real-world problems using digital tools. For Grazioso Salvare, I imagine they keep track of all their potential dogs in a spreadsheet, if they're tech-savvy, or a binder if they're not. Even just having a map of where each available dog is located would be nearly impossible using a binder, and would go out of sync very quickly. By using computer science to move the information to a digital catalogue, we can enable always-in-sync mapping and data aggregation from the data available to the company. This is much more difficult to do with even spreadsheets, let alone paper binders.
+
 ## CS 330 Computer Graphics
 
 When I design software, I like to sit down and think about abstractions. In the case of Graphics Programming, what happens if you want to use the same 
