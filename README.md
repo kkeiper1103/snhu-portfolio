@@ -3,6 +3,22 @@
 
 In short, this repository is a collection of work from various SNHU courses that I need to put together for the final program project. You will find a collection of various documents and programs that I have compiled in this repository.
 
+## CS 370 - Current/Emerging Trends in CS
+
+IN CS-370, we learned about the growing trend towards Artificial Intelligence through Machine Learning. The main areas of interest were Neural Networks and Deep Q-Learning. Our final project was to implement a Deep Q-Learning algorithm to aid an AI agent, a Pirate, in winning a treasure hunt. We were given all code except for the algorithm itself. 
+
+* **What do computer scientists do and why does it matter?**
+
+Computer scientists use the mathematical power provided by computers to investigate the world. We gain knowledge that would otherwise be very unwieldy to calculate. The topic studied in this class, Artificial Intelligence, will help scientists by possibly discovering information in a way that they may not have recognized before.
+
+* **How do I approach a problem as a computer scientist?**
+
+As a Computer Scientist, I approach problems by considering what "grunt work" the computer could do for me, but I don't mean grunt work in the idea of "something I could do myself but can't be bothered with". In this context, I mean the nitty-gritty that I myself may very well not understand how to do, and need AI or simple mathematical models to explain the conclusions reached. 
+
+* **What are my ethical responsibilities to the end user and the organization?**
+
+My ethical responsibilities include making sure that AI is used responsibly. It would be very unethical to use it to generate data that is incorrect, or to create pieces of content that invade privacy, or use it to attempt to hack companies maliciously. I must make sure that any usage of AI is properly vetted and, while it may not be fully understood, at least make sure we have a clear idea of what the AI is going to attempt to do before turning it on. Also, it is our responsibility to make sure there are safeguards in place to prevent usage that violates ethical principles.
+
 ## CS 340 - Client/Server Development
 
 * **How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?**
